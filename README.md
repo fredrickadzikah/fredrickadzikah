@@ -70,9 +70,3 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <a href="http://www.github.com/kofiofori-panin"><img src="https://activity-graph.herokuapp.com/graph?username=kofiofori-panin&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 -->
-
-## :trophy: Git profile Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kofiofori-panin&layout=compact&theme=algolia" alt="kofiofori-panin" /></a> </p>
-
------
