@@ -9,7 +9,6 @@ Hi 👋 My name is Fredrick Adzikah
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines= Graphic Designer; Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=kofiofori-panin&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
 Hi, I'm Whyyfrey by brand, a visual storyteller dedicated to transforming ideas into engaging digital experiences. With a passion for minimalism and a background in illustration, I help brands create memorable visual identities. When I’m not pushing pixels, you can find me finding inspiration at local coffee shops or exploring the city with my camera.
 A passionate developer deploying end-to-end web solutions that help businesses scale while saving time and cost over the past 1 year. 
